@@ -33,7 +33,7 @@ https://www.transifex.com/bisq/bisq-desktop/dashboard/
 
 As most know, and many liquidity weeks show, the developed world doesn't need Bitcoin very much, much less decentralized Bitcoin exchanges. We propose that Bitcoin is most needed and has the most potential on territories owned by groups with unwise and antiquated governing philosophies.
 
-4 examples are above:
+4 examples featured in this block of our work:
 
 - Thailand: The Southeast Asia economic leader, with tremendous wealth and potential, and relatively open to trade. However, the ruling elite is militaristic, exceptionally hierarchical and medieval in their mindset. The general population is industrious, but incredibly brainwashed, and the epitome of the word "sheeple". The ruling gang has just instituted a tax on Bitcoin trading, which can be as high as 22%: 15% capital gains, and 7% VAT. The traders are not yet concerned, because of the "live in the moment" idiosyncrasy of the Buddhist culture...
 THB is not weak, and did surprisingly well during GFC, but it's not stronger than Bitcoin. 
