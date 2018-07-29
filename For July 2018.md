@@ -2,12 +2,14 @@
 
 > _Specify the total amount of BSQ you are requesting, and the BSQ address that amount should be paid to:_
 
- - BSQ requested:
+ - BSQ requested: 
  - BSQ address:
 
+## Details
 
 ## Contributions delivered
 
+ - 
 > _Provide links to contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19), the amount of BSQ you are requesting for each, and any comments that will help stakeholders understand its value._
 
 
