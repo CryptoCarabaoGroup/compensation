@@ -10,6 +10,7 @@
 ## Contributions delivered
 
  - Full initial translations of 3 languages -- Vietnamese, Thai, Persian
+    - Requesting: 
  - Full initial reviews of 3 languages -- Vietnamese, Thai, Persian
  - More than 10 percent translation and completion of Russian translation
  - 85 percent review of Russian translation
@@ -23,6 +24,8 @@
 
 ## Contributions in progress
 
+ - Funding second-opinion review of Persian translation
+ 
 > _Provide links to work you're involved with that is still [in progress](https://github.com/bisq-network/proposals/issues/19). **This section is optional,** and is for your own benefit in keeping track of what you're doing and keeping other contributors up to date with the same._
 
 
