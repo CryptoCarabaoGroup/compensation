@@ -9,15 +9,20 @@
 
 ## Contributions delivered
 
- - Full initial translations of 3 languages -- Vietnamese, Thai, Persian
-    - Requesting: 
- - Full initial reviews of 3 languages -- Vietnamese, Thai, Persian
- - More than 10 percent translation and completion of Russian translation
- - 85 percent review of Russian translation
+ - Funded and delivered full initial translations of 3 languages -- Vietnamese, Thai, Persian
+    - Requesting: 3 
+ - Funded and delivered full initial reviews of 3 languages -- Vietnamese, Thai, Persian
+    - Requesting: 3 
+ - Delivered more than 10 percent translation and completion of Russian translation
+ - Delivered 85 percent review of Russian translation
+    - Requesting: 1
+ - Hiring and management of translators and reviewers in all above languages
+    - Requesting: 1
  - More than 8 months of market making in XMR
  - More than 2 months of market making in VND 
  - More than 4 months sell-side liquidity in USD and THB, including first THB-BTC trade
  (our trader node address available upon request)
+    - Requesting: 1
  
 > _Provide links to contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19), the amount of BSQ you are requesting for each, and any comments that will help stakeholders understand its value._
 
@@ -26,10 +31,13 @@
 
  - Funding second-opinion review of Persian translation
  
+ 
 > _Provide links to work you're involved with that is still [in progress](https://github.com/bisq-network/proposals/issues/19). **This section is optional,** and is for your own benefit in keeping track of what you're doing and keeping other contributors up to date with the same._
 
 
 ## Roles performed
+
+ - Not Applicable
 
 > _Provide links to your [monthly report](https://github.com/bisq-network/proposals/issues/13) on any roles you are responsible for._
 
