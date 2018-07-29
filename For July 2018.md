@@ -24,7 +24,10 @@
  (our trader node address available upon request)
     - Requesting: 1
  
-> _Provide links to contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19), the amount of BSQ you are requesting for each, and any comments that will help stakeholders understand its value._
+ - _Links to contributions you have [delivered](https://www.transifex.com/bisq/bisq-desktop/dashboard/):_
+https://www.transifex.com/bisq/bisq-desktop/dashboard/
+ - _The amount of BSQ requested for each: Please see above._
+ - _Comments that will help stakeholders understand its value:_
 
 
 ## Contributions in progress
