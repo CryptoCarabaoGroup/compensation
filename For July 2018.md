@@ -3,6 +3,9 @@
  - BSQ requested:
     - (If that value is not certain yet, we would like to wait to receive this compensation until that value is decided or even a market price emerges.)
  - BSQ address:
+ 
+ - 9 real people have been involved in the work below - most as paid contractors, others as volunteers.
+ - We request compensation in bonds, because we plan to field arbitrators in these markets.
 
 ## Details
 
