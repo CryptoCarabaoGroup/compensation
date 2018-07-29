@@ -1,30 +1,45 @@
 ## Summary
 
- - BSQ requested:
-    - (If that value is not certain yet, we would like to wait to receive this compensation until that value is decided or even a market price emerges.)
- - BSQ address:
+ - BSQ requested: The BSQ value of 9 Bisq arbitrator bonds OR 190,860 BSQ
+    - (If the BSQ arbitrator bond value is not certain yet, we could also wait to receive this compensation until that value is decided or even a market price emerges.)
+ - BSQ address: B1Q9UGZyuoQJ7tGSjFx11D64dvz47RY86XM
  
  - 9 real people have been involved in the work below - most as paid contractors, others as volunteers.
- - We request compensation in bonds, because we plan to field arbitrators in these markets.
+ - We request compensation in BSQ bonds value, because we plan to field arbitrators in these markets, and don't know how to estimate so much work fairly in a currency for which there is no market price yet.
 
 ## Details
+ 
+ - In a previous translation compensation we found, it was compensated at about 2.1 BSQ / word:
+ https://github.com/bisq-network/compensation/issues/91
+ So, if we cannot be paid in BSQ bond equivalents, we request that rate also.
+ 
+ - Liquidity weeks pay 20 BSQ / week. So at that rate, we request:
+    - For XMR 8 month * 4 weeks * 20 BSQ =  640 BSQ
+    - For VND 2 months * 4 weeks * 20 BSQ = 160 BSQ
+    - For THB and USD 4 months * 4 weeks * 10 BSQ = 160 BSQ
 
+ - We lost track how many hours it took to hire and herd 7 translation and review cats, because it came in tiny increments. So, if we can be paid in BSQ bond equivalents, 1 arb bond seems like a reasonable, round number. Othewise, please advise how you value project management hours.  
+    
+ 
 ### Contributions delivered
 
  - Funded and delivered full initial translations of 3 languages -- Vietnamese, Thai, Persian
-    - Requesting: 3 
+    - Approximately 35,250 words translated total
+    - Requesting: The BSQ value of 3 Bisq arbitrator bonds, or 73,950 BSQ at rate mentioned above
  - Funded and delivered full initial reviews of 3 languages -- Vietnamese, Thai, Persian
-    - Requesting: 3 
+    - Approximately 35,250 words reviewed total and corrected as necessary
+    - Requesting:  The BSQ value of 3 Bisq arbitrator bonds or 73,950 BSQ at rate mentioned above
  - Delivered more than 10 percent translation and completion of Russian translation
  - Delivered 85 percent review of Russian translation
-    - Requesting: 1
+    - Approximately 10,000 words reviewed total and corrected as necessary
+    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 21,000 BSQ at rate mentioned above
  - Hiring and management of translators and reviewers in all above languages
-    - Requesting: 1
+    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 21,000 BSQ at rate mentioned above
  - More than 8 months of market making in XMR
  - More than 2 months of low-spread market making in VND 
  - More than 4 months sell-side liquidity in USD and THB, including first THB-BTC trade
  (our trader node address available upon request)
-    - Requesting: 1
+    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 960 BSQ
  
  - _Links to contributions you have [delivered](https://www.transifex.com/bisq/bisq-desktop/dashboard/):_
 https://www.transifex.com/bisq/bisq-desktop/dashboard/
@@ -56,7 +71,7 @@ The RUR was of course demolished - yet again during our lifetime - in 2014. And 
 Russians have been relatively active in Bitcoin from the OG days - second only to the Anglos and Germans maybe. The leadership is incredibly backwards and unenlightened, however, and could crack down on every kind of Bitcoin trading under any insane pretext. 
 A lot of the educated population understands English enough to be able to use Bisq in it, but of course Cyrillic alphabet is significantly different and Russia is like the US in language conditions: one can travel through several time zones, and never need to use anything besides Russian. So, there's little incentive to learn English for those who don't travel out of Russia and former Soviet republics much...
 
-That is our view, and why we consider it imperative for Bisq to gain every possible foothold in these markets, before the powers that should not be in them are able to consolidate their control over the Bitcoin and shitcoin trade.
+That is our view, and why we consider it imperative for Bisq to gain every possible foothold in these markets, before the powers that should not be in them are able to consolidate their control over the Bitcoin trade.
 These Bisq translations are meant to facilitate Bisq advancement there.
 
 ### Contributions in progress
