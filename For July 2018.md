@@ -1,45 +1,38 @@
 ## Summary
 
- - BSQ requested: The BSQ value of 9 Bisq arbitrator bonds OR 190,860 BSQ
-    - (If the BSQ arbitrator bond value is not certain yet, we could also wait to receive this compensation until that value is decided or even a market price emerges.)
+ - BSQ requested: 2090 BSQ
  - BSQ address: B1Q9UGZyuoQJ7tGSjFx11D64dvz47RY86XM
  
  - 9 real people have been involved in the work below - most as paid contractors, others as volunteers.
- - We request compensation in BSQ bonds value, because we plan to field arbitrators in these markets, and don't know how to estimate so much work fairly in a currency for which there is no market price yet.
 
 ## Details
  
- - In a previous translation compensation we found, it was compensated at about 2.1 BSQ / word:
- https://github.com/bisq-network/compensation/issues/91
- So, if we cannot be paid in BSQ bond equivalents, we request that rate also.
+ - For professional, technical translation by native speakers, the prevailing rate we encoutered was 0.05 - 0.07 USD / word. We request 0.0125 USD / word, which was our target rate after payment processing and other middlemen fees.
  
  - Liquidity weeks pay 20 BSQ / week. So at that rate, we request:
     - For XMR 8 month * 4 weeks * 20 BSQ =  640 BSQ
     - For VND 2 months * 4 weeks * 20 BSQ = 160 BSQ
-    - For THB and USD 4 months * 4 weeks * 10 BSQ = 160 BSQ
-
- - We lost track how many hours it took to hire and herd 7 translation and review cats, because it came in tiny increments. So, if we can be paid in BSQ bond equivalents, 1 arb bond seems like a reasonable, round number. Othewise, please advise how you value project management hours.  
-    
+    - For THB and USD 4 months * 4 weeks * 10 BSQ = 160 BSQ  
  
 ### Contributions delivered
 
  - Funded and delivered full initial translations of 3 languages -- Vietnamese, Thai, Persian
     - Approximately 35,250 words translated total
-    - Requesting: The BSQ value of 3 Bisq arbitrator bonds, or 73,950 BSQ at rate mentioned above
+    - Requesting: 440 BSQ at rate mentioned above
  - Funded and delivered full initial reviews of 3 languages -- Vietnamese, Thai, Persian
     - Approximately 35,250 words reviewed total and corrected as necessary
-    - Requesting:  The BSQ value of 3 Bisq arbitrator bonds or 73,950 BSQ at rate mentioned above
+    - Requesting:  440 BSQ at rate mentioned above
  - Delivered more than 10 percent translation and completion of Russian translation
  - Delivered 85 percent review of Russian translation
     - Approximately 10,000 words reviewed total and corrected as necessary
-    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 21,000 BSQ at rate mentioned above
+    - Requesting:  125 BSQ at rate mentioned above
  - Hiring and management of translators and reviewers in all above languages
-    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 21,000 BSQ at rate mentioned above
+    - Requesting:  125 BSQ at rate mentioned above
  - More than 8 months of market making in XMR
  - More than 2 months of low-spread market making in VND 
  - More than 4 months sell-side liquidity in USD and THB, including first THB-BTC trade
  (our trader node address available upon request)
-    - Requesting:  The BSQ value of 1 Bisq arbitrator bonds or 960 BSQ
+    - Requesting: 960 BSQ
  
  - _Links to contributions you have [delivered](https://www.transifex.com/bisq/bisq-desktop/dashboard/):_
 https://www.transifex.com/bisq/bisq-desktop/dashboard/
