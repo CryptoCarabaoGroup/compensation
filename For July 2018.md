@@ -1,7 +1,5 @@
 ## Summary
 
-> _Specify the total amount of BSQ you are requesting, and the BSQ address that amount should be paid to:_
-
  - BSQ requested: 
  - BSQ address:
 
