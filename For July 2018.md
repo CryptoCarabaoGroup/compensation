@@ -5,7 +5,7 @@
 
 ## Details
 
-## Contributions delivered
+### Contributions delivered
 
  - Funded and delivered full initial translations of 3 languages -- Vietnamese, Thai, Persian
     - Requesting: 3 
@@ -28,7 +28,7 @@ https://www.transifex.com/bisq/bisq-desktop/dashboard/
  - _Comments that will help stakeholders understand its value:_
 
 
-## Contributions in progress
+### Contributions in progress
 
  - Funding second-opinion review of Persian translation
  https://www.transifex.com/bisq/bisq-desktop/language/fa/
@@ -36,9 +36,9 @@ https://www.transifex.com/bisq/bisq-desktop/dashboard/
 > _**This section is optional**._
 
 
-## Roles performed
+### Roles performed
 
  - Not Applicable
 
-> _Provide links to your [monthly report](https://github.com/bisq-network/proposals/issues/13) on any roles you are responsible for._
+> _._
 
