@@ -33,9 +33,9 @@ https://www.transifex.com/bisq/bisq-desktop/dashboard/
 ## Contributions in progress
 
  - Funding second-opinion review of Persian translation
+ https://www.transifex.com/bisq/bisq-desktop/language/fa/
  
- 
-> _Provide links to work you're involved with that is still [in progress](https://github.com/bisq-network/proposals/issues/19). **This section is optional,** and is for your own benefit in keeping track of what you're doing and keeping other contributors up to date with the same._
+> _**This section is optional**._
 
 
 ## Roles performed
