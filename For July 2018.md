@@ -18,7 +18,7 @@
  - Hiring and management of translators and reviewers in all above languages
     - Requesting: 1
  - More than 8 months of market making in XMR
- - More than 2 months of market making in VND 
+ - More than 2 months of low-spread market making in VND 
  - More than 4 months sell-side liquidity in USD and THB, including first THB-BTC trade
  (our trader node address available upon request)
     - Requesting: 1
@@ -54,11 +54,13 @@ Russians have been relatively active in Bitcoin from the OG days - second only t
 A lot of the educated population understands English enough to be able to use Bisq in it, but of course Cyrillic alphabet is significantly different and Russia is like the US in language conditions: one can travel through several time zones, and never need to use anything besides Russian. So, there's little incentive to learn English for those who don't travel out of Russia and former Soviet republics much...
 
 That is our view, and why we consider it imperative for Bisq to gain every possible foothold in these markets, before the powers that should not be in them are able to consolidate their control over the Bitcoin and shitcoin trade.
+These Bisq translations are meant to facilitate Bisq advancement there.
 
 ### Contributions in progress
 
  - Funding second-opinion review of Persian translation
  https://www.transifex.com/bisq/bisq-desktop/language/fa/
+ - Continuing review and improvement of Russian translation
  
 > _**This section is optional**._
 
