@@ -9,7 +9,8 @@
 
 ## Contributions delivered
 
- - 
+ - Full initial translations of 3 languages -- Vietnamese, Thai, Persian
+ - Full initial reviews of 3 languages -- Vietnamese, Thai, Persian
 > _Provide links to contributions you have [delivered](https://github.com/bisq-network/proposals/issues/19), the amount of BSQ you are requesting for each, and any comments that will help stakeholders understand its value._
 
 
